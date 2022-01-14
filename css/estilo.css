@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;1,200;1,300&family=Poppins:ital,wght@0,300;0,400;0,500;1,600&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo{
+    width: 150px;
+    padding: 10px 0;
+}
+.sps--abv{
+    background-color: transparent;
+    color: #fff;
+
+}
+.sps--blw{
+    background-color: #2B2B2B;
+    color: #fff;
+}
+nav.sps--abv .logo{
+    width: 300px;
+}
+.iconos-redes-header{
+    width: 20px;
+    margin: 10px 5px;
+        
+}
+.banner-video{
+    background-image: url(/images/home/video-bg.jpg);
+            padding: 200px 0;
+            position: relative;
+            text-align: center;
+}
+.banner-video .play{
+    width: 80px;
+    height: 80px;
+    position: relative;
+}
+.pantallas{
+    
+    padding: 50px 10px;
+    margin:10px 0;
+}
+footer{
+    background-color: rgba(56, 255, 202, 1);
+    padding: 100px 10px;
+    text-align: center;
+}
+ footer .logo-footer{
+width: 200px;
+    margin-bottom: 20px;
+}
+footer p{
+    color: #fff;
+    font-size: 20px;
+}
+
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 1.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: rgba(28, 28, 28, 0.92);
+    text-align: left;
+    top: 500px;
+    font-size: 20px;
+}
+
+
+.boton{
+    color: black;
+    background-color: transparent;
+    border-radius: 6px;
+}
